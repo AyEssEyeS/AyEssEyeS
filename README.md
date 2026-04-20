@@ -24,7 +24,7 @@ I'm a passionate student programmer focused on developing my skills and building
   - Problem-solv0ing oriented
   - Team player
 
----0000
+---
 
 ## 📫 Connect with Me
 
