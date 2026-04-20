@@ -9,7 +9,7 @@
 
 I'm a passionate student programmer focused on developing my skills and building a solid foundation in tech. I’m always learning, experimenting, and looking forward to turning knowledge into real projects.
 
-- 🔭 Currently learning: **HTML, CSS, C++, Java**
+- 🔭 Currently learning: **C++, Java**
 - 🎮 Gamer & music lover outside of code
 - 🛠️ I’ll be adding projects here as I finish them—stay tuned!
 
@@ -18,13 +18,13 @@ I'm a passionate student programmer focused on developing my skills and building
 ## 🚀 Skills
 
 - **Languages:**  
-  `HTML` | `CSS` | C++ | `JavaScript`
+  `Java` | `C++`
 - **Mindset:**  
   - Always learning
-  - Problem-solving oriented
+  - Problem-solv0ing oriented
   - Team player
 
----
+---0000
 
 ## 📫 Connect with Me
 
